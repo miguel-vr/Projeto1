@@ -6,7 +6,7 @@ public class ProjetoMain {
 		
 		Interface inter = new Interface();
 		
-		inter.interface1();
+		inter.interface12();
 	}
 
 }
